@@ -7,10 +7,10 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 
-// 127.0.0.1:1521:XE;
+
 
 /*	
- * Classe cria a conex„o com o banco de Dados 
+ * Classe cria a conex√£o com o banco de Dados 
  * 
  */
 public class Banco {
@@ -21,7 +21,7 @@ public class Banco {
 	
 	
 
-	// mÈtodo cria conex„o ...
+	// m√©todo cria conex√£o ...
 	public Connection criaConexao() {
 		  try{
 			// conecta
